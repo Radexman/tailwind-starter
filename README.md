@@ -25,4 +25,4 @@ npm run build
 npm run watch
 ```
 
--   ##Happy Coding! 🍻
+-   Happy Coding! 🍺
