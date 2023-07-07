@@ -1,9 +1,9 @@
 # **Tailwind CSS Starter**
 
 Tailwind CSS with Prettier auto-sorting plugin boilerplate
-for rapid developement without the need to configure enviroment from scratch.
+for rapid developement without the need to configure enviroment from scratch
 
-## **Quick Start**
+## **Quick Start 🏁**
 
 -   Clone or download this repository via github.
 -   Install all dev dependencies with npm or yarn.
@@ -24,3 +24,5 @@ npm run build
 ```npm
 npm run watch
 ```
+
+-   ##Happy Coding! 🍻
